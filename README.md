@@ -17,6 +17,10 @@ A hero image on the homepage that showcases different types of footwear.
 A section displaying featured products, with the option to view more products.
 A search bar that allows users to search for products.
 
+Deploy link:
+Backend: https://courageous-hare-toga.cyclic.app/
+Frontend: 
+
 **Contact Us**
 
 If you have any questions or feedback, please contact us at: info@firststep.com. We are always happy to hear from our customers and are dedicated to providing the best possible shopping experience.

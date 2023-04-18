@@ -26,4 +26,4 @@ Frontend: https://miniature-coat-3850.netlify.app/
 
 If you have any questions or feedback, please contact us at: info@sephora.com. We are always happy to hear from our customers and are dedicated to providing the best possible shopping experience.
 
-Thank you for visiting First Step!
+Thank you for visiting Sephora!

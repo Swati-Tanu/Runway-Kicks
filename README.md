@@ -19,7 +19,8 @@ A search bar that allows users to search for products.
 
 Deploy link:
 Backend: https://courageous-hare-toga.cyclic.app/
-Frontend: 
+<br>
+Frontend: https://miniature-coat-3850.netlify.app/
 
 **Contact Us**
 

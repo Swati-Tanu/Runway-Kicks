@@ -163,18 +163,25 @@ DELETE /cart/delete/:id
 
  <div align = "center">
    <h2>Landing Page</h2>
-   
+   <img width="945" alt="Landing Page" src="https://github.com/Swati-Tanu/Runway-Kicks/assets/112818778/8c23dea0-8a11-411f-828a-3c60c3505dfc">
+
    <br>
    <h2>Product Page</h2>
-    
+    <img width="947" alt="Product Page" src="https://github.com/Swati-Tanu/Runway-Kicks/assets/112818778/e1c5099c-de1c-4d6f-9f92-57c641b221a8">
+
+   <br>
    <h2>Sale Page</h2>
-   
+   <img width="944" alt="Sale Page" src="https://github.com/Swati-Tanu/Runway-Kicks/assets/112818778/4e6ddade-8660-4fa4-b628-97ab400140b1">
+
    <br>
    <h2>Community Page</h2>
-   
+  <img width="943" alt="Community Page" src="https://github.com/Swati-Tanu/Runway-Kicks/assets/112818778/ab27eb67-2dbb-45fe-97e7-c408e06c5acf">
+
+
    <br>
    <h2>Admin Dashboard</h2>
-   
+   <img width="943" alt="Admin_Dashboard" src="https://github.com/Swati-Tanu/Runway-Kicks/assets/112818778/06431633-31ab-46ad-99ab-7c6fe0884a2f">
+
    <br>
 <div/>
   <br>

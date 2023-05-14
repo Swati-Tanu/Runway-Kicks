@@ -1,0 +1,46 @@
+.about {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.about p {
+    margin: 20px 0;
+}
+
+#about1 p {
+    width: 70%;
+    margin: 20px auto;
+    display: block;
+}
+
+#about1 {
+    background-color: rgb(244, 241, 241);
+}
+
+#image {
+    width: 94%;
+    margin: 0 auto;
+    display: flex;
+}
+
+#about3 {
+    background-color: rgb(243, 243, 243);
+
+    display: block;
+}
+
+.btna {
+    width: 19%;
+    border: 1px solid black;
+    margin: 10px auto;
+    display: block;
+    background-color: #fff;
+    padding: 10px;
+    font-size: 1rem;
+}
+
+.btna:hover {
+    box-shadow: inset 320px 0 0 0 black;
+    color: #fff;
+    cursor: pointer;
+}

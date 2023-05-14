@@ -9,6 +9,7 @@
   <p>Our system provides a user-friendly platform that enables users to browse products, search, filter, add and place order with ease.. Additionally, all-encompassing administrative interface that enables authorized personnel to perform a wide range of operations, including Create, Read, Update, and Delete (CRUD) functions. </p>
 </div>
 <hr> 
+
 ## TECH STACKS USED
 
 <p align = "center">
@@ -34,3 +35,48 @@
 -  Add to Cart
 -  Order History Fetch
 -  Admin can perform all CRUD operations
+
+## Run Locally
+### Clone this Project
+
+```
+https://github.com/Swati-Tanu/Runway-Kicks.git
+```
+
+### Install npm Packages
+
+```javascript
+npm i --global
+```
+
+### Go to Backend Folder
+```javascript
+cd backend
+```
+
+### Run Server
+```javascript
+npx nodemon index.js
+```
+### Runs the project in the development mode
+
+[http://localhost:5000](http://localhost:5000)
+
+
+### Environment Variables Required
+`mongourl`
+
+`key`
+
+`port`
+
+## NPM Packages
+<p align = "center">
+<img src="https://repository-images.githubusercontent.com/139898859/9617c480-81c2-11ea-94fc-322231ead1f0" alt="bcrypt.png" width="70" height="50"/>
+<img src="https://github.com/faraz412/cozy-passenger-4798/blob/main/Frontend/Files/cors.png?raw=true" alt="cors" width="70" height="50"/>
+<img src="https://github.com/faraz412/cozy-passenger-4798/blob/main/Frontend/Files/download.png?raw=true" alt="dotenv" width="60" height="50"/>
+<img src="https://github.com/faraz412/cozy-passenger-4798/blob/main/Frontend/Files/JWT.png?raw=true" alt="jwt" width="70" height="50"/>
+<img src="https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/mogoose-logo.png" alt="mongoose.png" width="70" height="70"/>     
+<img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="nodemon.png" width="50" height="50"/>
+</p>
+

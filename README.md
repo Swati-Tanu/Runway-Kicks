@@ -1,6 +1,6 @@
 ## ABOUT THE PROJECT
 <h1> Runway Kicks </h1>
-<div align="center"  width="60" height="60">
+<div align="center"  width="100" height="100">
   <img src="frontend/avatar/logo.png" alt="html" width="200" height="100"/>
   <br>
   <br>
@@ -93,7 +93,7 @@ POST  /user/register
 ```javascript
 POST  /user/login
 ```
-#### Men Product 
+#### Men Products 
 ```javascript
 GET /men/
 GET /men/filter
@@ -104,7 +104,7 @@ POST  /men/create
 PATCH /men/update/:id
 DELETE /men/delete/:id
 ```
-#### Women Product 
+#### Women Products 
 ```javascript
 GET /women/
 GET /women/filter
@@ -116,7 +116,7 @@ PATCH /women/update/:id
 DELETE /women/delete/:id
 ```
 
-#### Kid Product 
+#### Kids Products 
 ```javascript
 GET /kid/
 GET /kid/filter
@@ -128,13 +128,13 @@ PATCH /kid/update/:id
 DELETE /kid/delete/:id
 ```
 
-#### Order
+#### Orders
 ```javascript
 GET /order/
 GET /order/search
 ```
 
-#### Cart
+#### Carts
 ```javascript
 GET /cart/
 POST  /cart/create

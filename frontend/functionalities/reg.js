@@ -1,4 +1,4 @@
-const baseURL="http://localhost:5000/";
+const baseURL="https://hungry-hospital-gown-lamb.cyclic.app/";
 
 /*---------------------User/Admin switch functionality------------------*/
 

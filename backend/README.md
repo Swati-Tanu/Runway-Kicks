@@ -1,7 +1,8 @@
-## ABOUT THE PROJECT
+## ABOUT THE PROJECT 
+<h5>This repo is the backend part of the project.</h5>
 <h1> Runway Kicks </h1>
 <div align="center"  width="100" height="100">
-  <img src="frontend/avatar/logo.png" alt="html" width="200" height="100"/>
+  <img src="logo.png" alt="html" width="200" height="100"/>
   <br>
   <br>
   <p>Welcome to Runway Kicks, a footwear ecommerce website for purchasing products. This website is designed to make it easy for you to browse and purchase a wide variety of shoes, from casual to formal, at competitive prices.</p>
@@ -64,7 +65,7 @@ npx nodemon index.js
 
 
 ### Environment Variables Required
-`MongoURL`
+`mongourl`
 
 `key`
 
@@ -185,7 +186,7 @@ DELETE /cart/delete/:id
 
 [FRONTEND]()
 
-[BACKEND](https://hungry-hospital-gown-lamb.cyclic.app/)
+[BACKEND](https://dark-frog-scarf.cyclic.app/)
 
  
 | `Author` |

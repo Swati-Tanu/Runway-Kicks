@@ -1,4 +1,4 @@
-const baseURL="http://localhost:5000/";
+const baseURL="https://hungry-hospital-gown-lamb.cyclic.app/";
 
 let order_empty = document.querySelector(".order-empty");
 let order_data=document.querySelector(".order_data");

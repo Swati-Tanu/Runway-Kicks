@@ -1,4 +1,4 @@
-const baseURL="http://localhost:5000/";
+const baseURL="https://hungry-hospital-gown-lamb.cyclic.app/";
 
 let subtotal=document.querySelectorAll(".total");
 let checkout=document.querySelector("#checkout");
@@ -147,7 +147,7 @@ async function emptyCart(){
         if(res.ok){
             let data=await res.json();
             alert(data.msg1);
-            window.location.href="order.html";
+            window.location.href="../sub_pages/payment.html";
         }
     }catch(err){
         console.log(err);

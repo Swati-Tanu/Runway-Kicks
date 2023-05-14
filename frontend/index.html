@@ -26,8 +26,8 @@
                 <h1 style="font-size:50px">NOW BOOTS</h1>
                 <h4 style="font-size:25px">UNDER $75</h4>
                 <div class="land_offer_btns">
-                    <button class="btn_click1">Shop Mens</button>
-                    <button class="btn_click2">Shop Womens</button>
+                    <button class="btn_click1">Shop Men's</button>
+                    <button><a href="./sub_pages/women.html">Shop Women's</a></button>
                 </div>
                 <br>
                 <p>For more details explore, 
@@ -53,7 +53,7 @@
             <div class="winter_reboot_btns">
                 <button class="btn_click1">Shop Men's Boots</button>
                 &nbsp;&nbsp;
-                <button class="btn_click2">Shop Women's Boots</button>
+                <button id="black"><a href="./sub_pages/women.html">Shop Women's Boot</a></button>
             </div>
         </div>
     </div>
@@ -132,14 +132,6 @@
     for(let btnClick1 of btnClicks1){
         btnClick1.addEventListener("click",(e)=>{
             window.location.href="./sub_pages/men.html";
-        })
-    }
-
-    let btnClicks2=document.querySelectorAll(".btn_click2");
-
-    for(let btnClicks2 of btnClicks2){
-        btnClick1.addEventListener("click",(e)=>{
-            window.location.href="./sub_pages/women.html";
         })
     }
 </script>

@@ -5,6 +5,13 @@ body{
     margin:0;
     padding:0;
 }
+button>a{
+    color: white;
+    text-decoration: none;
+}
+#black>a{
+    color: black;
+}
 
 /*  NAVBAR SECTION  */
 
@@ -420,6 +427,7 @@ body{
     .menu_left a:nth-child(3),.menu_left a:nth-child(4),.menu_left a:nth-child(5),.menu_left a:nth-child(6){
         display: none;
     }
+    
     .menu_right{
         width:60%;
         font-size: 12px;

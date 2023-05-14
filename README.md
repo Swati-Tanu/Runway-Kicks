@@ -1,6 +1,6 @@
 ## ABOUT THE PROJECT
 <h1> Runway Kicks </h1>
-<div align="center"  width="55" height="55">
+<div align="center"  width="60" height="60">
   <img src="frontend/avatar/logo.png" alt="html" width="200" height="100"/>
   <br>
   <br>
@@ -80,3 +80,116 @@ npx nodemon index.js
 <img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="nodemon.png" width="50" height="50"/>
 </p>
 
+## API Endpoints
+   #### Welcome
+```javascript
+GET  /
+```
+  #### Registration
+```javascript
+POST  /user/register
+```
+  #### Signin
+```javascript
+POST  /user/login
+```
+#### Men Product 
+```javascript
+GET /men/
+GET /men/filter
+GET /men/exc
+GET /men/sort
+GET /men/search
+POST  /men/create
+PATCH /men/update/:id
+DELETE /men/delete/:id
+```
+#### Women Product 
+```javascript
+GET /women/
+GET /women/filter
+GET /women/exc
+GET /women/sort
+GET /women/search
+POST  /women/create
+PATCH /women/update/:id
+DELETE /women/delete/:id
+```
+
+#### Kid Product 
+```javascript
+GET /kid/
+GET /kid/filter
+GET /kid/exc
+GET /kid/sort
+GET /kid/search
+POST  /kid/create
+PATCH /kid/update/:id
+DELETE /kid/delete/:id
+```
+
+#### Order
+```javascript
+GET /order/
+GET /order/search
+```
+
+#### Cart
+```javascript
+GET /cart/
+POST  /cart/create
+PATCH /cart/update/:id
+DELETE /cart/delete/all
+DELETE /cart/delete/:id
+```
+
+  #### Admin 
+ ```javascript
+ POST /admin/register
+ POST /admin/login
+
+ Credentials: 
+ admin@gmail.com
+ admin
+ 
+ ```
+    
+   
+<div align = "center">  
+  
+  
+| `Project Highlights` |
+| :------------------: | 
+
+ <div align = "center">
+   <h2>Landing Page</h2>
+   
+   <br>
+   <h2>Product Page</h2>
+    
+   <h2>Sale Page</h2>
+   
+   <br>
+   <h2>Community Page</h2>
+   
+   <br>
+   <h2>Admin Dashboard</h2>
+   
+   <br>
+<div/>
+  <br>
+
+| `Demo` |
+| :----: | 
+   
+
+[FRONTEND]()
+
+[BACKEND]()
+
+ 
+| `Author` |
+| :-------: | 
+ 
+ [SWATI TANU](https://github.com/Swati-Tanu) 
+ 

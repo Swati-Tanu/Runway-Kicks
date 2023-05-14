@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Poppins:wght@400;500;600;700&display=swap');
 
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
 * {
     margin: 0;
     padding: 0;
@@ -25,10 +27,10 @@ li {
     --dark-grey: #AAAAAA;
     --dark: #342E37;
     --red: #DB504A;
-    --yellow: black;
+    --yellow: #FFCE26;
     --light-yellow: #FFF2C6;
-    --orange: black;
-    --light-orange: #FFF2C6;
+    --orange: #FD7238;
+    --light-orange: #FFE0D3;
 }
 
 html {
@@ -350,6 +352,9 @@ body {
     background: var(--light);
     padding: 24px;
     overflow-x: auto;
+    background-image: url("background.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #content main .table-data .head {
@@ -372,6 +377,25 @@ body {
 #content main .table-data .order {
     flex-grow: 1;
     flex-basis: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#imagecont {
+    margin: auto;
+    width: 600px;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-right: 10px;
+}
+
+#content main .table-data .order img {
+    border-radius: 50%;
+    width: 100%;
+    object-fit: cover;
 }
 
 #content main .table-data .order table {
@@ -418,6 +442,73 @@ body {
 
 /* MAIN */
 /* CONTENT */
+
+/*form styles*/
+
+body {
+    font-family: montserrat, arial, verdana;
+}
+
+#msform {
+    width: 500px;
+    margin: 50px auto;
+    text-align: center;
+    position: relative;
+}
+
+#msform fieldset {
+    background: white;
+    border: 0 none;
+    border-radius: 3px;
+    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+    padding: 20px 30px;
+    box-sizing: border-box;
+    width: 80%;
+    margin: 0 10%;
+
+    /*stacking fieldsets above each other*/
+    position: relative;
+}
+
+/*inputs*/
+#msform input {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: montserrat;
+    color: #2C3E50;
+    font-size: 18px;
+}
+
+/*buttons*/
+#msform .action-button {
+    width: 100px;
+    background: #27AE60;
+    font-weight: bold;
+    color: white;
+    border: 0 none;
+    border-radius: 1px;
+    cursor: pointer;
+    padding: 10px;
+    margin: 10px 5px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#msform .action-button:hover {
+    box-shadow: 0 0 0 2px white, 0 0 0 3px #27AE60;
+}
+
+/*headings*/
+.fs-title {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #2C3E50;
+    margin-bottom: 30px;
+}
 
 /*RESPONSIVENESS*/
 

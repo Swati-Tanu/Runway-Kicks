@@ -4,9 +4,9 @@
   <img src="frontend/avatar/logo.png" alt="html" width="200" height="100"/>
   <br>
   <br>
-  <p>Welcome to Runway Kicks, a footwear ecommerce website for purchasing products. This website is designed to make it easy for you to browse and purchase a wide variety of shoes, from casual to formal, at competitive prices.</p>
+  <p>Welcome to Runway Kicks, a footwear e-commerce website for purchasing products. This website is designed to make it easy for you to browse and buy various shoes, from casual to formal, at competitive prices.</p>
   <br>
-  <p>Our system provides a user-friendly platform that enables users to browse products, search, filter, add and place order with ease.. Additionally, all-encompassing administrative interface that enables authorized personnel to perform a wide range of operations, including Create, Read, Update, and Delete (CRUD) functions. </p>
+  <p>Our system provides a user-friendly platform that enables users to browse products, search, filter, add and place orders with ease. Additionally, an all-encompassing administrative interface that allows authorized personnel to perform a wide range of operations, including Create, Read, Update, and Delete (CRUD) functions. </p>
 </div>
 <hr> 
 

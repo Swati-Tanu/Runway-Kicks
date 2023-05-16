@@ -29,7 +29,7 @@
 -  API Validation
 -  Responsive
 -  Cross Platform
--  Registeration/Signin/Logout
+-  Registration/Signin/Logout
 -  Product Search 
 -  Product Filter
 -  Add to Cart

@@ -52,12 +52,6 @@ https://github.com/Swati-Tanu/Runway-Kicks.git
 npm i --global
 ```
 
-### Go to Backend Folder
-
-```javascript
-cd backend
-```
-
 ### Run Server
 
 ```javascript

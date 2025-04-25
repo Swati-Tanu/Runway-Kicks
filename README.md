@@ -1,4 +1,5 @@
 ## ABOUT THE PROJECT
+
 <h1> Runway Kicks </h1>
 <div align="center"  width="100" height="100">
   <img src="frontend/avatar/logo.png" alt="html" width="200" height="100"/>
@@ -8,7 +9,7 @@
   <br>
   <p>Our system provides a user-friendly platform that enables users to browse products, search, filter, add and place orders with ease. Additionally, an all-encompassing administrative interface that allows authorized personnel to perform a wide range of operations, including Create, Read, Update, and Delete (CRUD) functions. </p>
 </div>
-<hr> 
+<hr>
 
 ## TECH STACKS USED
 
@@ -24,19 +25,21 @@
 </p>
 <hr>
 
-## Features 
--  Authentication
--  API Validation
--  Responsive
--  Cross Platform
--  Registration/Signin/Logout
--  Product Search 
--  Product Filter
--  Add to Cart
--  Order History Fetch
--  Admin can perform all CRUD operations
+## Features
+
+- Authentication
+- API Validation
+- Responsive
+- Cross Platform
+- Registration/Signin/Logout
+- Product Search
+- Product Filter
+- Add to Cart
+- Order History Fetch
+- Admin can perform all CRUD operations
 
 ## Run Locally
+
 ### Clone this Project
 
 ```
@@ -50,20 +53,23 @@ npm i --global
 ```
 
 ### Go to Backend Folder
+
 ```javascript
 cd backend
 ```
 
 ### Run Server
+
 ```javascript
 npx nodemon index.js
 ```
+
 ### Runs the project in the development mode
 
 [http://localhost:5000](http://localhost:5000)
 
-
 ### Environment Variables Required
+
 `MongoURL`
 
 `key`
@@ -71,6 +77,7 @@ npx nodemon index.js
 `port`
 
 ## NPM Packages
+
 <p align = "center">
 <img src="https://repository-images.githubusercontent.com/139898859/9617c480-81c2-11ea-94fc-322231ead1f0" alt="bcrypt.png" width="70" height="50"/>
 <img src="https://github.com/faraz412/cozy-passenger-4798/blob/main/Frontend/Files/cors.png?raw=true" alt="cors" width="70" height="50"/>
@@ -80,86 +87,18 @@ npx nodemon index.js
 <img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="nodemon.png" width="50" height="50"/>
 </p>
 
-## API Endpoints
-   #### Welcome
-```javascript
-GET  /
-```
-  #### Registration
-```javascript
-POST  /user/register
-```
-  #### Signin
-```javascript
-POST  /user/login
-```
-#### Men Products 
-```javascript
-GET /men/
-GET /men/filter
-GET /men/exc
-GET /men/sort
-GET /men/search
-POST  /men/create
-PATCH /men/update/:id
-DELETE /men/delete/:id
-```
-#### Women Products 
-```javascript
-GET /women/
-GET /women/filter
-GET /women/exc
-GET /women/sort
-GET /women/search
-POST  /women/create
-PATCH /women/update/:id
-DELETE /women/delete/:id
-```
+| `Demo` |
+| :----: |
 
-#### Kids Products 
-```javascript
-GET /kid/
-GET /kid/filter
-GET /kid/exc
-GET /kid/sort
-GET /kid/search
-POST  /kid/create
-PATCH /kid/update/:id
-DELETE /kid/delete/:id
-```
+[FRONTEND](https://runwaykickswebsite.netlify.app/)
 
-#### Orders
-```javascript
-GET /order/
-GET /order/search
-```
+[BACKEND](runway-kicks.onrender.com/api-docs/)
 
-#### Carts
-```javascript
-GET /cart/
-POST  /cart/create
-PATCH /cart/update/:id
-DELETE /cart/delete/all
-DELETE /cart/delete/:id
-```
-
-  #### Admin 
- ```javascript
- POST /admin/register
- POST /admin/login
-
- Credentials: 
- admin@gmail.com
- admin
- 
- ```
-    
-   
 <div align = "center">  
   
   
 | `Project Highlights` |
-| :------------------: | 
+| :------------------: |
 
  <div align = "center">
    <h2>Landing Page</h2>
@@ -177,7 +116,6 @@ DELETE /cart/delete/:id
    <h2>Community Page</h2>
   <img width="943" alt="Community Page" src="https://github.com/Swati-Tanu/Runway-Kicks/assets/112818778/ab27eb67-2dbb-45fe-97e7-c408e06c5acf">
 
-
    <br>
    <h2>Admin Dashboard</h2>
    <img width="943" alt="Admin_Dashboard" src="https://github.com/Swati-Tanu/Runway-Kicks/assets/112818778/06431633-31ab-46ad-99ab-7c6fe0884a2f">
@@ -186,17 +124,7 @@ DELETE /cart/delete/:id
 <div/>
   <br>
 
-| `Demo` |
-| :----: | 
-   
-
-[FRONTEND](https://runwaykickswebsite.netlify.app/)
-
-[BACKEND](https://hungry-hospital-gown-lamb.cyclic.app/)
-
- 
 | `Author` |
-| :-------: | 
- 
- [SWATI TANU](https://github.com/Swati-Tanu) 
- 
+| :------: |
+
+[SWATI TANU](https://github.com/Swati-Tanu)

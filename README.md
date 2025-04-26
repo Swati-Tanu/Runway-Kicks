@@ -81,12 +81,16 @@ npx nodemon index.js
 <img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="nodemon.png" width="50" height="50"/>
 </p>
 
+ <div align = "center">
+
 | `Demo` |
 | :----: |
 
 [FRONTEND](https://runwaykickswebsite.netlify.app/)
 
 [BACKEND](runway-kicks.onrender.com/api-docs/)
+
+ </div>
 
 <div align = "center">  
   

@@ -2,7 +2,7 @@
 
 <h1> Runway Kicks </h1>
 <div align="center"  width="100" height="100">
-  <img src="frontend/avatar/logo.png" alt="html" width="200" height="100"/>
+  <img src="avatar/logo.png" alt="html" width="200" height="100"/>
   <br>
   <br>
   <p>Welcome to Runway Kicks, a footwear e-commerce website for purchasing products. This website is designed to make it easy for you to browse and buy various shoes, from casual to formal, at competitive prices.</p>
